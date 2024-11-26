@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+  Voxa Token Grabber
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
-  Telegram: https://t.me/lunaxsmug
+  
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div>
@@ -131,27 +131,3 @@ The file you built will now appear in the current folder with the name you set.
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
 </div>
-
-## Contributing
-Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add New Feature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
-
-
-## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
-
-
-## Star Graph
-
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
